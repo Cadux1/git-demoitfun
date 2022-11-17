@@ -3,9 +3,16 @@ How can life be what you want it to be
 You're frozen
 When your heart's not open
 
+<<<<<<< HEAD
 Mmmmmm, if I could melt your heart
 Mmmmmm, we'd never be apart
 Mmmmmm, if I could melt your heart
 Mmmmmm, we'd never be apart
 -------------------------------------------
+=======
+You're so consumed with how much you get
+You waste your time with hate and regret
+
+
+>>>>>>> 77307efb6fe831e16c5726063fc5d5fa6ea3d0d7
 
